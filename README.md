@@ -8,6 +8,13 @@ I'm an undergraduate student pursuing Core Computer Science stream in SRM Instit
  
  ---
  
+ ### Tech Stack:
+
+<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg' width=30 height=30/> 
+<img src='https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' width=30 height=30/> <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' width=30 height=30/>
+ 
+ ---
+ 
  ## My Stats:
  
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anne0317&theme=radical)
@@ -18,6 +25,11 @@ I'm an undergraduate student pursuing Core Computer Science stream in SRM Instit
  ## Top Languages:
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anne0317&layout=compact)
+ 
+ ## Trophies:
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=anne0317&theme=onestar)
+
 
 <!--
 **anne0317/anne0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
