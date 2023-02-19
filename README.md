@@ -47,7 +47,7 @@ I'm an undergraduate student pursuing Core Computer Science stream in SRM Instit
 <hr>
 
 
-![Ananya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anne1703&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+![Ananya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anne0317&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
 
 <hr>
 
