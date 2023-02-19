@@ -43,6 +43,14 @@ I'm an undergraduate student pursuing Core Computer Science stream in SRM Instit
 ![Trophies](https://github-profile-trophy.vercel.app/?username=anne0317&theme=onestar)
 
 
+### 📈My Contributions:
+<hr>
+
+
+![Ananya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anne1703&bg_color=000000&color=ffffff&line=c800ff&point=ffffff&area=true&hide_border=true)
+
+<hr>
+
 <!--
 **anne0317/anne0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
